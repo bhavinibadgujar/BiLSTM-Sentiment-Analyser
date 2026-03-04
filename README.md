@@ -207,5 +207,4 @@ MIT — free to use and modify.
 # BiLSTM-Sentiment-Analyser
 #
 
-## deployed the project on 
-https://bilstm-sentiment-analyser-nydadtsxmarxtmmqlj4txw.streamlit.app/
+
